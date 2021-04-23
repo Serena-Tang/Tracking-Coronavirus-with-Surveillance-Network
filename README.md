@@ -16,3 +16,8 @@
   c. Steps to test<br/>
 6. Fix any merge conflicts (if any) and send a notification to the team<br/>
 7. Now you can safely merge you branch <br/>
+## Acknowledge My Teammates
+
+1. @ZaneBartlett Zane Bartlett.
+2. Thank you for the awesome teamwork
+3. My previous account contet were messed up, didn't know how to fix so I had to rebuild everything on this new account.
